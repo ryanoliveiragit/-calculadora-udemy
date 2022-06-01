@@ -1,7 +1,7 @@
 # Calculadora ReactJS [@Udemy](https://www.udemy.com).
 
 
-![Logo](https://media.discordapp.net/attachments/979518231033315399/979557492935766026/unknown.png?width=1178&height=663)
+![Logo](https://https://media.discordapp.net/attachments/981608341568626738/981646533688696893/unknown.png?width=768&height=392)
 
 
 # Observações.
